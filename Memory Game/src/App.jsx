@@ -63,7 +63,7 @@ const App = () => {
   }, []);
 
   return (
-    <div className="bg-gray-950 min-h-screen text-white flex flex-col items-center gap-10 overflow-x-hidden">
+    <div className="bg-gray-900 min-h-screen text-white flex flex-col items-center gap-10 overflow-x-hidden">
       <h1 className="font-mono text-center text-3xl md:text-4xl font-bold uppercase mt-10 text-red-500 max-sm:mt-5">
         Magic Match
       </h1>
